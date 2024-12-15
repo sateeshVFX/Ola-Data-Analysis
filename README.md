@@ -34,9 +34,16 @@ The dataset contains **1,00,000 rows** with the following columns:
 
 ---
 
-## SQL Analysis 📝
+## Slides Used for DashBoard
 
-### SQL Questions
+-![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
+-![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
+-![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
+-![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
+-![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
+
+
+### SQL Questions 📝
 1. Retrieve all successful bookings.
 2. Find the average ride distance for each vehicle type.
 3. Get the total number of cancelled rides by customers.

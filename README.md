@@ -36,11 +36,11 @@ The dataset contains **1,00,000 rows** with the following columns:
 
 ## Slides Used for DashBoard
 
--![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
--![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
--![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
--![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
--![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)
+-![Slide-1](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Overall.PNG)
+-![Slide-2](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Vehicle%20Type.PNG)
+-![Slide-3](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Revenue.PNG)
+-![Slide-4](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Cancellation.PNG)
+-![Slide-5](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Ratings.PNG)
 
 
 ### SQL Questions 📝

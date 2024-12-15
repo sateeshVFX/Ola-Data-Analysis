@@ -1,6 +1,6 @@
 # Ola Data Analysis Project 🚖
 
-![Project Logo](https://example.com/your-logo.png)  <!-- Replace with a relevant image or logo URL -->
+![Project Logo](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Logo.png)  <!-- Replace with a relevant image or logo URL -->
 
 ## Project Overview 🌟
 
@@ -81,23 +81,28 @@ This repository contains a Power BI dashboard that provides comprehensive insigh
 
 ### Page 1: Overall Overview
 - **Description**: A comprehensive snapshot of ride-sharing metrics, including total rides, overall revenue, and basic performance indicators.
-- **Sample Link**: [View Overall Overview](#)
+-   Overview
+-   ()
 
 ### Page 2: Vehicle Type
 - **Description**: A representation of vehicle types utilized in the ride-sharing service, including performance metrics like average distance traveled and ratings.
-- **Sample Link**: [View Vehicle Type](#)
+- Vehicle Type
+- ()
 
 ### Page 3: Revenue
 - **Description**: A detailed visualization of revenue generated from rides, categorized by various factors such as time periods, payment methods, and customer demographics.
-- **Sample Link**: [View Revenue](#)
+- Revenue
+- ()
 
 ### Page 4: Cancellation
 - **Description**: A breakdown of ride cancellations showing the reasons behind cancellations and their frequency, allowing stakeholders to identify patterns and areas for improvement.
-- **Sample Link**: [View Cancellation Reasons](#)
+- Cancellation
+- ()
 
 ### Page 5: Ratings
 - **Description**: A detailed analysis of driver and customer ratings, showcasing average ratings by vehicle type and other metrics to gauge service quality.
-- **Sample Link**: [View Ratings](#)
+- Ratings
+- ()
 
 
 

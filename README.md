@@ -79,30 +79,30 @@ This repository contains a Power BI dashboard that provides comprehensive insigh
 
 ## Dashboard Pages
 
-### Page 1: Overall Overview
+### Page 1: Overview
 - **Description**: A comprehensive snapshot of ride-sharing metrics, including total rides, overall revenue, and basic performance indicators.
 -   Overview
--   ()
+-   ![Overview](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Dashboard-Overall.png) 
 
 ### Page 2: Vehicle Type
 - **Description**: A representation of vehicle types utilized in the ride-sharing service, including performance metrics like average distance traveled and ratings.
 - Vehicle Type
-- ()
+- ![Vehicle Type](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Dashboard-Vehicle.png)
 
 ### Page 3: Revenue
 - **Description**: A detailed visualization of revenue generated from rides, categorized by various factors such as time periods, payment methods, and customer demographics.
 - Revenue
-- ()
+- ![Revenue](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Dashboard-Revenue.png)
 
 ### Page 4: Cancellation
 - **Description**: A breakdown of ride cancellations showing the reasons behind cancellations and their frequency, allowing stakeholders to identify patterns and areas for improvement.
 - Cancellation
-- ()
+- ![Cancellation](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Dashboard-Cancellation.png)
 
 ### Page 5: Ratings
 - **Description**: A detailed analysis of driver and customer ratings, showcasing average ratings by vehicle type and other metrics to gauge service quality.
 - Ratings
-- ()
+- ![Ratings](https://github.com/sateeshVFX/Ola-Data-Analysis/blob/main/Ola/Dashboard-Ratings.png)
 
 
 
